@@ -1,0 +1,6 @@
+{
+  "name": "LecoAuto",
+  "description": "Premium Android automotive launcher with 3D dashboards, Glassmorphism widget controls, customizable Tesla/BMW theme engines, and multi Windows system.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
