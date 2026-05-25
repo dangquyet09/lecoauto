@@ -38,9 +38,6 @@ jobs:
           -validity 10000 \
           -dname "CN=Android Debug,O=Android,C=US"
 
-      - name: Move Debug Keystore
-        run: mv debug.keystore ./debug.keystore
-
       - name: Build Debug APK
         run: ./gradlew assembleDebug --stacktrace
 
